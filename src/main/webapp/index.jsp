@@ -788,7 +788,7 @@
                         <p class="cost">$1870 / Per Person</p>
                         <div class="card-box">
                             <p class="time">🕓 3 Days</p>
-                            <p class="location">✈ Monaco, Monaco</p>
+                            <p class="location">✈ Monaco</p>
                         </div>
                     </div>
 
