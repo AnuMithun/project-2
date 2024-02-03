@@ -676,7 +676,7 @@
 
         <!--===========Nav Bar=================-->
         <section class="nav-bar">
-            <div class="logo">Go Trip</div>
+            <div class="logo">Go trip with Moye Moye</div>
             <ul class="menu">
                 <li><a href="#">home</a></li>
                 <li><a href="#">tours</a></li>
