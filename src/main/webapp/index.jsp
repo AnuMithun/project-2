@@ -438,7 +438,7 @@
         
         .footer .links {
           position: relative;
-          color: #fff;
+          color: blueviolet;
           flex: 1;
           display: flex;
           flex-flow: column;
@@ -464,7 +464,7 @@
         }
         
         .links li:hover {
-          color: #ffa801;
+          color: blueviolet;
         }
         
         /*==========================Responsive=============================*/
@@ -676,7 +676,7 @@
 
         <!--===========Nav Bar=================-->
         <section class="nav-bar">
-            <div class="logo">Go trip v1.15</div>
+            <div class="logo">Go trip moye moye</div>
             <ul class="menu">
                 <li><a href="#">home</a></li>
                 <li><a href="#">tours</a></li>
