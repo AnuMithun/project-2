@@ -535,7 +535,7 @@
             font-size: 30px;
             margin: 10px auto;
             font-family: Satisfy;
-            color: #fde02f;
+            color: blueviolet;
           }
         
           .nav-bar ul {
@@ -676,7 +676,7 @@
 
         <!--===========Nav Bar=================-->
         <section class="nav-bar">
-            <div class="logo">Go trip v1.14</div>
+            <div class="logo">Go trip v1.15</div>
             <ul class="menu">
                 <li><a href="#">home</a></li>
                 <li><a href="#">tours</a></li>
